@@ -9,7 +9,8 @@ Contact the [author](https://www.kuleuven.be/wieiswie/nl/person/00148775) at sim
 
 ## Instructions
 ### Data:
-The creditcard transaction data can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+The creditcard transaction data can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud \
+The .csv file should be placed in the data folder as "data\Kaggle Creditcard Fraud\creditcard.csv". You can replace the now empty creditcard.csv file.
 ### Run code:
 Run overview.py to execute the experiments as descibed in the paper. \
 Settings can be adapted in overview.py: 
