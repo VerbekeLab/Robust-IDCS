@@ -3,7 +3,7 @@
 ## Description
 This is the code for the paper on "Robust Instance-Dependent Cost-Sensitive Classification".
 
-Citation: [to be specified]
+Citation: De Vos, Simon, Toon Vanderschueren, Tim Verdonck, and Wouter Verbeke. 2023. “Robust Instance-Dependent Cost-Sensitive Classification.” Advances in Data Analysis and Classification, January. https://doi.org/10.1007/s11634-022-00533-3.
 
 Contact the [author](https://www.kuleuven.be/wieiswie/nl/person/00148775) at simon.devos@kuleuven.be.
 
@@ -24,7 +24,6 @@ Settings can be adapted in overview.py:
 
 ## Acknowledgments
 The code for cslogit is a Python versions of the [original cslogit by Sebastiaan Höppner et al.](https://github.com/SebastiaanHoppner/CostSensitiveLearning).
-The Python version of cslogit was provided by [Lennert Van der Schraelen](https://www.kuleuven.be/wieiswie/nl/person/00132137).
 A framework of the experiments was largely provided by [Toon Vanderschueren](https://www.kuleuven.be/wieiswie/nl/person/00140754).
 
 
